@@ -2,8 +2,8 @@ import { EXPERIENCES } from "../constant"
 import { motion } from "framer-motion"
 const Experience = () => {
     return (
-        <section id="experience" className="h-screen">
-            <div className="border-b border-neutral-900 pb-4">
+        <section id="experience" >
+            <div className="border-b border-neutral-900">
                 <motion.h1
                     whileInView={{ opacity: 1, y: 0 }}
                     initial={{ opacity: 0, y: -100 }}

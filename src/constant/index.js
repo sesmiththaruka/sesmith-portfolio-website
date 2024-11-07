@@ -3,16 +3,16 @@ import project2 from "../assets/projects/e-commercefullstack.jpg";
 import project3 from "../assets/projects/e-commerce-ss-laptop.jpg";
 import project4 from "../assets/projects/android.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Full-stack developer with experience developing and deploying Java SE and React Native projects for real clients. Built 9 projects to expand skills in Express.js, Next.js, Spring Boot, Angular, React, and Android, while also leveraging cloud technologies like AWS, Docker, Kubernetes and CI/CD.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Full-stack developer with experience developing and deploying Java SE and React Native projects for real clients. Built 9 projects to expand skills in Express.js, Next.js, Spring Boot, Angular, React, and Android, while also leveraging cloud technologies like AWS, Docker, Kubernetes and CI/CD.`;
 
 export const EXPERIENCES = [
   {
     year: "2022 - Present",
     role: "Freelance Developer",
     company: "Fiverr.",
-    description: `Developed a range of custom web applications and Point of Sale (POS) systems tailored to client needs, utilizing Java, Next.js, React, Node.js, and React Native. Projects included building user-friendly, responsive interfaces and robust backend systems to streamline client operations. Delivered solutions such as inventory management tools and real-time data reporting, enhancing business efficiency for clients across various industries. Each project was crafted with a focus on clean, maintainable code and effective collaboration with clients to meet both functional and design goals.`,
+    description: `Delivered full-stack solutions using Java SE and React Native. Collaborated with clients to gather requirements, deploy applications, and ensure timely project completion.`,
     technologies: ["Java", "Javascript", "React.js", "Next.js", "mongoDB"],
   },
 

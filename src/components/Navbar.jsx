@@ -13,9 +13,9 @@ const Navbar = () => {
 
       <div className="flex gap-8 text-lg">
         {/* Navbar links */}
-        <Link to="about" smooth={true} duration={500} offset={-150} className="cursor-pointer">
+        {/* <Link to="about" smooth={true} duration={500} offset={-150} className="cursor-pointer">
           About Me
-        </Link>
+        </Link> */}
         <Link to="technologies" smooth={true} duration={500} offset={-180} className="cursor-pointer">
           Technologies
         </Link>

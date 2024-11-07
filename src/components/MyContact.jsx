@@ -11,7 +11,7 @@ const MyContact = () => {
           transition={{ duration: 1.5 }}
           className="my-19 text-center text-4xl">Contact Me</motion.h1>
 
-        <div className="mt-11 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+        <div className="mt-11 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-1">
           <motion.div
             whileInView={{ opacity: 1, x: 0 }}
             initial={{ opacity: 0, x: 100 }}
